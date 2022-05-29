@@ -10,5 +10,5 @@ const mostrarDatos = (...datos) => { //guarda todos los datos en un array
 //mostrarDatos(' Carlos ', 23, ' correo@correo.com ', ' Mexico ');
 
 const arregloDatos = [' Carlos ', 23, ' correo@correo.com ', ' Mexico '];
-mostrarDatos(...arregloDatos); //así le estamos pasando cada elemento del arreglo como un 'parametro', una lista de 'parametros'
+mostrarDatos(...arregloDatos); //así le estamos pasando cada elemento del arreglo como un argumento/'parametro', una lista de argumentos
 

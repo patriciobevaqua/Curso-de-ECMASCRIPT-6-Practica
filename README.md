@@ -5,12 +5,14 @@ Play List: https://www.youtube.com/playlist?list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-
 Canal:
 https://www.youtube.com/c/FalconMasters
 
-Script - npm run build-babel:
-Para utilizar babel y que se instale en capreta node_modules es necesario correr el comando (por consola, estando ubicados en la carpeta del proyecto):
-npm run build-babel
+para instalar las dependencias:
+npm install
+
+Script - npm run build-babel
+Para ejecutar babel (que se encuentra dentro de las dependencias).
 
 ---------------------- 
-Script - npm run build:
+Script - npm run build
 para ejecutar webpack (la instalación se explica en el video:  https://youtu.be/kDBDL5muC0c)
 Se explica en el video Curso de ES6 14.- Instalando y Configurando Webpack con Babel.
 
